@@ -3,3 +3,4 @@ Just a command line program that takes a phrase as an argument, and then shows t
 
 Usage:
 ./bruteforce this is the phrase given
+![Demo gif](https://raw.githubusercontent.com/JHunterMoore/Curses-Brute-Forcing-Animated/master/Untitled.gif)
